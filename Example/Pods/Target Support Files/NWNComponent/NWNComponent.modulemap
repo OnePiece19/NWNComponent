@@ -1,0 +1,6 @@
+framework module NWNComponent {
+  umbrella header "NWNComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

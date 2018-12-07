@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - NWNComponent (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - NWNComponent (from `../`)
+
+EXTERNAL SOURCES:
+  NWNComponent:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  NWNComponent: 61ef69be650c057f547d1f6d23f456b140ac72e2
+
+PODFILE CHECKSUM: 4bd7018bb2ac985ef0c4400934998401905b0007
+
+COCOAPODS: 1.4.0

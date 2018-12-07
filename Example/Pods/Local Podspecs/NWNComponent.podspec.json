@@ -1,0 +1,22 @@
+{
+  "name": "NWNComponent",
+  "version": "0.1.0",
+  "summary": "A short description of NWNComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/381509610@qq.com/NWNComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "381509610@qq.com": "huangxiong@offcn.com"
+  },
+  "source": {
+    "git": "https://github.com/381509610@qq.com/NWNComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NWNComponent/Classes/**/*"
+}

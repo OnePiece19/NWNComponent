@@ -1,0 +1,6 @@
+framework module Pods_NWNComponent_Example {
+  umbrella header "Pods-NWNComponent_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
