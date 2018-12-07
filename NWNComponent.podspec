@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/381509610@qq.com/NWNComponent'
+  s.homepage         = 'https://github.com/debug89/NWNComponent'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '381509610@qq.com' => 'huangxiong@offcn.com' }
-  s.source           = { :git => 'https://github.com/381509610@qq.com/NWNComponent.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/debug89/NWNComponent.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
